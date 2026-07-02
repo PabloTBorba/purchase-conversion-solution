@@ -40,6 +40,9 @@ dotnet build
 dotnet run --project src/PurchaseConversion.Api
 ```
 
+Manual tests can be run using Swagger UI or any HTTP client (Postman, curl, etc.).
+Details about the API endpoints are available in the Swagger UI.
+
 ### Tests
 
 This project contains unit and integration tests. To run all tests, execute:
@@ -49,7 +52,7 @@ dotnet test
 
 ## Running in Development
 
-The Swagger UI is enabled only in `Development`.
+The Swagger UI is enabled only in `Development`. 
 
 ### Visual Studio
 
