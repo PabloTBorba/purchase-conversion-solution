@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/PurchaseConversion.Api/PurchaseConversion.Api.csproj" />
+    <Project Path="src/PurchaseConversion.Domain/PurchaseConversion.Domain.csproj" />
+    <Project Path="src/PurchaseConversion.Infrastructure/PurchaseConversion.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PurchaseConversion.Api.Tests/PurchaseConversion.Api.Tests.csproj" />
+    <Project Path="tests/PurchaseConversion.Domain.Tests/PurchaseConversion.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
